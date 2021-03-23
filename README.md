@@ -40,17 +40,21 @@ Note:
 
 - A simple random table generation schema is provided utilizing the `knitr`/`markdown` which render in a rather native manner.
 
-- `font`, for Chinese font part, it is noticable that the Copyright issue is serious. Only `SourceHan` (lic details) is linked in this case. Indeed, one could generate one's own font. You may find [this]() link useful.
+- `font`, for Chinese font part, it is noticable that the Copyright issue is serious. Only `SourceHan` (lic details) is linked in this case. Indeed, one could generate one's own font. You may find [this](NULL) link useful.
 
 #### Screenshots
 
-![Shiny-Server]()
+Shiny Server
+![Shiny-Server](fig/shiny-1.png)
 
-![restful-api]()
+Restful API (with light tuning)
+![restful-api](fig/restful1.png)
 
-![Random-Jitter]()
+Shiny Server-Random line/row spaces
+![Random-Jitter](fig/shiny-2.png)
 
-![Random-Table]()
+Mixture of text and tables (random generated demo, transparent background)
+![Random-Table](fig/xkcd3.jpeg)
 
 ### Toolchain II
 
